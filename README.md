@@ -20,4 +20,4 @@ more gray - pay little attention on that image grid
 2. train dcgan: 
 > $python train-dcgan.py --dataset data/your-dataset 
 3. image inpainting with grid attention:
-> $ python complete.py data/your-test-data --use_attention True
+> $ python complete.py --dataset data/your-test-dataset --checkpointDir checkpint/you-checkpoint --use_attention True
