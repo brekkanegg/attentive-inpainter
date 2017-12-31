@@ -4,7 +4,7 @@
 ### Current State: too slow, not working well 
 ### TO-DO: try with not grid level, instead instance(object) level
 
-![] (/coco-attnviz.png)
+![] (coco-attnviz.png)
 more gray - pay little attention on that image grid
 
 + This repository implements Raymond Yeh and Chen Chen et al.'s paper
